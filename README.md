@@ -1,3 +1,69 @@
-# Credit-card-usage-and-customer-response-analytics
+# Credit Card Transaction Analysis Dashboard
 
-A dual dashboard project to extract various insights from a combination of datasets that depicts patterns useful for the stakeholders, additionally the defining customer usage behaviour based on the gender demographics.
+## Overview
+
+This Power BI project focuses on analyzing credit card transactions from various perspectives using two distinct dashboards: Credit Card Transaction Report and Credit Card Customer Report.
+
+### Credit Card Transaction Report Dashboard
+
+This dashboard provides detailed insights into transactional data, including revenue, interest, payment types, and more. Key visualizations include:
+
+- Revenue Analysis
+  - Quarterly revenue trends
+  - Total transaction revenue by payment type
+  - Weekly transaction summaries
+- Interest Earned
+  - Sum of interest earned over time
+- Expense Analysis
+  - Revenue breakdown by expense type
+- Demographic Insights
+  - Revenue segmentation by education level
+  - Distribution of transactions across different customer categories
+
+### Credit Card Customer Report Dashboard
+
+This dashboard focuses on customer-centric analytics, highlighting demographic and behavioral patterns. Key visualizations include:
+
+- Customer Distribution
+  - Top states with the most customers
+  - Customer distribution by job types
+- Revenue and Income
+  - Sum of revenue and income earned
+  - Revenue analysis by income group
+- Demographic Segmentation
+  - Revenue distribution by age group
+  - Dependency count and its impact on spending
+  - Revenue by education level and marital status
+  - Gender-based spending patterns
+- Card Usage Analysis
+  - Types of cards predominantly used by customers
+
+## Screenshots
+
+Include screenshots or GIFs showcasing the dashboards and some key visualizations here.
+
+## Getting Started
+
+To view these dashboards and explore the data:
+
+1. Clone the repository to your local machine.
+2. Open the .pbix file using Power BI Desktop.
+3. Explore the data model, queries, and visualizations.
+
+## Data Source
+
+The data used in this project is sourced from keggle
+
+## Dependencies
+
+- Power BI Desktop (version 2.131.901.0 or higher)
+- A compatible browser for viewing reports or the power BI desktop app
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- Thanks to [Data Source Provider] for providing the transaction data.
+- Inspiration and guidance from Power BI community and documentation.
