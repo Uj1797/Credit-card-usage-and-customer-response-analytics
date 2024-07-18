@@ -40,7 +40,7 @@ This dashboard focuses on customer-centric analytics, highlighting demographic a
 
 ## Screenshots
 
-Include screenshots or GIFs showcasing the dashboards and some key visualizations here.
+![Screenshot 2024-07-18 170347](https://github.com/user-attachments/assets/2403c9fb-6495-4ba4-913c-a4875819f226)
 
 ## Getting Started
 
