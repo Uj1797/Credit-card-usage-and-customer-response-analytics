@@ -42,13 +42,6 @@ This dashboard focuses on customer-centric analytics, highlighting demographic a
 
 ![Screenshot 2024-07-18 170347](https://github.com/user-attachments/assets/2403c9fb-6495-4ba4-913c-a4875819f226)
 
-## Getting Started
-
-To view these dashboards and explore the data:
-
-1. Clone the repository to your local machine.
-2. Open the .pbix file using Power BI Desktop.
-3. Explore the data model, queries, and visualizations.
 
 ## Data Source
 
