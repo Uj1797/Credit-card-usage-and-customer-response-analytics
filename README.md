@@ -45,7 +45,7 @@ This dashboard focuses on customer-centric analytics, highlighting demographic a
 
 ## Data Source
 
-The data used in this project is sourced from keggle
+The data used in this project is sourced from kaggle
 
 ## Dependencies
 
